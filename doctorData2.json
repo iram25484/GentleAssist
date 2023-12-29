@@ -1,0 +1,125 @@
+[
+    {
+        "Category": "Gynaecologist",
+        "name": "delayed or painful periods",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm"
+            }
+        ],
+        "description": "Do you feel excruciating pain while you are mensurating or absence/delay of periods due to any reason or Leucorrhea (excess white vaginal discharge) or menopause ? If yes then consult our gynie right away.  "
+    },
+    {
+        "Category": "Gynaecologist",
+        "name": "Endometriosis",
+        "img": "https://media.istockphoto.com/id/932253062/photo/uterus-with-ovaries-and-doctor-doctor-in-white-medical-lab-coat-with-stethoscope-around-his.jpg?s=1024x1024&w=is&k=20&c=RCKd5o_de9M4OaeJzLmRgLzpGd18YZ_y_gIo8-VoXHI=",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm"
+            }
+        ],
+        "description": "Do you have far worse irregular periods with fatigue , short breath and painful bowl movements ? Consult our doctors for assistance"
+    },
+    
+    {
+        "Category": "Gynaecologist",
+        "name": "Fibroids",
+        "img": "https://media.istockphoto.com/id/1195380806/photo/uterine-fibroid-on-top-view-yellow-table-healthcare-medical-concept.jpg?s=612x612&w=0&k=20&c=qwnkqqVN93cfVE_Bgtdm_d1A9wf4Ba-Yz3CAnjRk7W0=",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm"
+            }
+        ],
+        "description": "Frequent urination , Enlargement of the lower abdomen, lower back pain ,Discomfort near rectum, heavy menstural bleeding ."
+    },
+    {
+        "Category": "Gynaecologist",
+        "name": "Vaginitis",
+        "img": "https://images.unsplash.com/photo-1609603669402-e181e34595c0?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHZhZ2luYXxlbnwwfHwwfHx8MA%3D%3D",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm"
+            }
+        ],
+        "description": "Inflammation or infection around the genitals leading to pain,itching and odor, take consultation from our gynaecologist now"
+    },
+    {
+        "Category": "Gynaecologist",
+        "name": "Sexual dysfunction",
+        "img": "https://images.unsplash.com/photo-1618419117032-c817f04b43a2?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGhpYmlzY3VzfGVufDB8fDB8fHww",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm"
+            }
+        ],
+        "description": "Persistent, recurrent problems with sexual response, or pain — that distress you or strains, can be consulted with our doctors right away "
+    },
+    {
+        "Category": "Gynaecologist",
+        "name": "Polycystic ovarian syndrome (PCOS)",
+        "img": "https://images.unsplash.com/photo-1531354755998-195b9eca7061?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm" 
+            }
+        ],
+        "description": "Do you have way too irregular or fewer than nine periods a year and hair loss with hypertension , our online assistance would sure give you a good advice to start with"
+    },
+    {
+        "Category": "obstetrician-gynecologist",
+        "name": "suspected pregnancy,miscarriage or VBAC",
+        "img": "https://media.istockphoto.com/photos/spicy-paneer-or-chilli-paneer-or-paneer-tikka-or-cottage-cheese-in-picture-id697316634?b=1&k=20&m=697316634&s=170667a&w=0&h=bctfHdYTz9q2dJUnuxGRDUUwC9UBWjL_oQo5ECVVDAs=",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm"
+            }
+        ],
+        "description": "If do to probable reasons you are suspecting preganancy ,want to have a STD test or have questions about VBAC (vaginal births after cesarean delivery) , pregnancy complications or about sexual/reproductive health our OB/GYN specialists will guide you through completely "
+    },
+    {
+        "Category": "obstetrician-gynecologist",
+        "name": "Mental health",
+        "img": "https://images.unsplash.com/photo-1552096789-4e613d2c6e33?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm"
+            }
+        ],
+        "description": "we not only provide you with amazing reachable gynecologists but also with ables doctors who will help you out if there is any help needed regarding mental health , depression ,stress or filling prescriptions for common ailments, performing blood work for common diseases, and referring people to specialists."
+    },
+    {
+        "Category": "gynecologic-oncologist",
+        "name": "cervical or ovarial cancer advices",
+        "img": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fGNhbmNlcnxlbnwwfHwwfHx8MA%3D%3D",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm",
+                "offline": "11am-6pm"
+            }
+        ],
+        "description": "Is there sore in your vaginal area that doesn’t seem to heal? A lump that you can see and feel or that causes you pain? or any questions about what step to take next , contact our oncologists right away."
+    },
+    {
+        "Category": "gynecologic-oncologist",
+        "name": "Breast Cancer",
+        "img": "https://plus.unsplash.com/premium_photo-1669243651415-cda8e48a9fdc?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "morning": "10am-2pm",
+                "evening": "4pm-8pm",
+                "offline": "11am-6pm"
+            }
+        ],
+        "description": "Having swelling/redness/scaling/flaking/thickening of the nipple or breast skin? have doubts about having the disease ? or about mammography , consult our oncologists right away. "
+    }
+]
