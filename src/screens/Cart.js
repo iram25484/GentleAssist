@@ -1,5 +1,4 @@
 
-import React, { useContext } from "react";
 import {useCart,useDispatchCart} from '../components/ContextReducer';
 
 
@@ -14,7 +13,7 @@ export default function Cart(){
         )
     }
 
-    let totalPrice=100; //data.reduce((total,food)=>total+food.price,0)
+   
     return (
         <div>
            { console.log(data)}
